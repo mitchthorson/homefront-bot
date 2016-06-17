@@ -1,0 +1,16 @@
+{
+  "name": "homefront-bot",
+  "version": "0.1.0",
+  "description": "homefront screenshots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/phantomjs/bin/phantomjs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/USATODAY/homefront-bot"
+  },
+  "author": "Mitchell Thorson",
+  "license": "ISC"
+}
